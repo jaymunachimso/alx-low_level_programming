@@ -18,5 +18,9 @@ int main(void)
 	_putchar('\n');
 
 	return (0);
+<<<<<<< HEAD
 }
 >>>>>>> 02cd704837022f67532b4460b51ab1ee5f58df7d
+=======
+}
+>>>>>>> c5a7343f446d5971de6e6effd53def5ba17f05d4
