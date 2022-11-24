@@ -21,6 +21,7 @@ int _strlen(const char *str)
  *
  * Return: a pointer to the new element
  */
+
 list_t *add_node_end(list_t **head, const char *str)
 {
 	list_t *new_node;
